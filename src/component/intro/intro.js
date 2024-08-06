@@ -6,7 +6,7 @@ import { Link } from 'react-scroll';
 
 const Intro = () => {
   return (
-    <section id='intro'>
+    <section id='intro'> 
         <div className='introContent'>
           <span className='hello'>Hello,</span>
           <span className='introText'>I'm <span className='introName'>Sweeney</span> <br />Website Designer</span>
